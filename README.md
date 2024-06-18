@@ -4,5 +4,5 @@ I try my best to solve the solutions in the best overall time complexity it can 
 
 
 --------------------------- Here are all the problems I've solve thus far in LeetCode ---------------------------
-  1. Two Sum (Easy); Languages: | JavaScript | Python | C# |; Best overall time complexity: O(n);
-  66. Plus One (Easy); Languages: | Python |; Best overall time complexity: O(n);
+  1) Two Sum (Easy); Languages: | JavaScript | Python | C# |; Best overall time complexity: O(n);
+  66) Plus One (Easy); Languages: | Python |; Best overall time complexity: O(n);
