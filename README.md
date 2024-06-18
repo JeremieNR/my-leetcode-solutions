@@ -2,5 +2,6 @@ This repository holds a collection of my solutions to LeetCode problems coded in
 
 I try my best to solve the solutions in the best overall time complexity it can be solved in. 
 
+
 ------------------ Here are all the problems I've solve thus far in LeetCode ------------------
 1. Two Sum (Easy); Languages: | JavaScript | Python | C# |
