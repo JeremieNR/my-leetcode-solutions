@@ -4,6 +4,6 @@ This repository holds a collection of my solutions to LeetCode problems coded in
 
 ------------------------------------------------------------------------------------------------------------
 
-  Two Sum [#1] (Easy); Languages: | JavaScript | Python | C# |; Best overall time complexity: O(n);
+  [#1] Two Sum (Easy); Languages: | JavaScript | Python | C# |; Best overall time complexity: O(n);
   
-  Plus One [#66] (Easy); Languages: | Python |; Best overall time complexity: O(n);
+  [#66] Plus One (Easy); Languages: | Python |; Best overall time complexity: O(n);
