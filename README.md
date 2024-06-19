@@ -7,5 +7,5 @@ This repository holds a collection of my solutions to LeetCode problems coded in
 Problems | Difficulty Level | Languages | Best Overall Time Complexity 
 --- | --- | --- | ---
 [#1] Two Sum | Easy | JavaScript, Python & C# | O(n) 
-[#9] Palindrome Number | Easy | Python | O(n) 
+[#9] Palindrome Number | Easy | JavaScript & Python | O(n) 
 [#66] Plus One | Easy | Python | O(n) 
