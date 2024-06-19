@@ -4,16 +4,8 @@ This repository holds a collection of my solutions to LeetCode problems coded in
 
 ------------------------------------------------------------------------------------------------------------
 
-  [#1] Two Sum (Easy); Languages: | JavaScript | Python | C# |; Best overall time complexity: O(n);
-
-  [#9] Palindrome Number (Easy); Languages: | Python |; Best overall time complexity: O(n);
-  
-  [#66] Plus One (Easy); Languages: | Python |; Best overall time complexity: O(n);
-
-Problems | Languages | Best Overall Time Complexity 
---- | --- | --- 
-Seconds | 301 | 283 
---- | --- | --- 
-Seconds | 301 | 283 
---- | --- | --- 
-Seconds | 301 | 283 
+Problems | Difficulty Level | Languages | Best Overall Time Complexity 
+--- | --- | --- | ---
+[#1] Two Sum | Easy | JavaScript, Python & C# | O(n) 
+[#9] Palindrome Number | Easy | Python | O(n) 
+[#66] Plus One | Easy | Python | O(n) 
