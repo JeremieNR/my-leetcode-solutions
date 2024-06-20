@@ -8,4 +8,5 @@ Problems | Difficulty Level | Languages | Best Overall Time Complexity
 --- | --- | --- | ---
 [#1] Two Sum | Easy | JavaScript, Java, Python and C# | O(n) 
 [#9] Palindrome Number | Easy | JavaScript and Python | O(n) 
+[#26] Remove Duplicates from Sorted Array | Easy | Python | O(n) 
 [#66] Plus One | Easy | Python | O(n) 
