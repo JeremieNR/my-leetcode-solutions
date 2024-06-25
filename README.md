@@ -1,4 +1,4 @@
-This repository holds a collection of my solutions to LeetCode problems implemented in JavaScript, Java, Rust, Python and C#, accompanied by comments explaining my process. I try my best to solve the solutions in the best overall time complexity it can be solved in. 
+This repository holds a collection of my solutions to LeetCode problems I implemented in JavaScript, Java, Rust, Python and C#, accompanied by comments explaining my process. I try my best to solve the solutions in the best overall time complexity it can be solved in. 
 
 
 
