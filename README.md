@@ -12,4 +12,5 @@ Problems | Difficulty Level | Languages | Best Overall Time Complexity
 [#27] Remove Element | Easy | Rust and Python | O(n) 
 [#66] Plus One | Easy | Python | O(n) 
 [#69] Sqrt(x) | Easy | JavaScript, Rust and Python | O(log(n)) 
+[#136] Single Number | Easy | JavaScript | O(n)
 [#191] Number of 1 Bits | Easy | JavaScript | O(log(n)) 
