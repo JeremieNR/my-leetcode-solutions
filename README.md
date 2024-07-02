@@ -13,5 +13,6 @@ Problems | Difficulty Level | Languages | Best Overall Time Complexity
 [#58] Length of Last Word | Easy | Python | O(n) 
 [#66] Plus One | Easy | Python | O(n) 
 [#69] Sqrt(x) | Easy | JavaScript, Rust and Python | O(log(n)) 
+[#125] Valid Palindrome | Easy | Python | O(n) 
 [#136] Single Number | Easy | JavaScript and Rust | O(n)
 [#191] Number of 1 Bits | Easy | JavaScript | O(log(n)) 
