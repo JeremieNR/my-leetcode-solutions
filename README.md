@@ -4,7 +4,7 @@ This repository holds a collection of my solutions to LeetCode problems I implem
 
 ------------------------------------------------------------------------------------------------------------
 
-Problems | Difficulty Level | Languages | Best Overall Time Complexity 
+Problems | Difficulty Level | Languages | Overall Time Complexity 
 --- | --- | --- | ---
 [#1] Two Sum | Easy | JavaScript, Java, Rust, Python and C# | O(n) 
 [#9] Palindrome Number | Easy | JavaScript, Java, Rust and Python | O(n) 
