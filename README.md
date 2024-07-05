@@ -18,3 +18,4 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#169] Majority Element | Easy | Java | O(n)
 [#191] Number of 1 Bits | Easy | JavaScript | O(log(n)) 
 [#217] Contains Duplicate | Easy | Java | O(n)
+[#231] Power of Two | Easy | Java | O(1)
