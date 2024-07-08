@@ -20,3 +20,4 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#217] Contains Duplicate | Easy | Java | O(n)
 [#231] Power of Two | Easy | Java | O(1)
 [#268] Missing Number | Easy | Python | O(n)
+[#349] Intersection of Two Arrays | Easy | Javascript | O(n + m)
