@@ -18,6 +18,6 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#169] Majority Element | Easy | Java | O(n)
 [#191] Number of 1 Bits | Easy | JavaScript | O(log(n)) 
 [#217] Contains Duplicate | Easy | Java | O(n)
-[#231] Power of Two | Easy | Java | O(1)
+[#231] Power of Two | Easy | Javascript & Java | O(1)
 [#268] Missing Number | Easy | Python | O(n)
 [#349] Intersection of Two Arrays | Easy | Javascript | O(n + m)
