@@ -12,7 +12,7 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#27] Remove Element | Easy | JavaScript, Rust and Python | O(n) 
 [#58] Length of Last Word | Easy | Python | O(n) 
 [#66] Plus One | Easy | Python | O(n) 
-[#69] Sqrt(x) | Easy | JavaScript, Rust, Python and C# | O(log(n)) 
+[#69] Sqrt(x) | Easy | JavaScript, Java, Rust, Python and C# | O(log(n)) 
 [#125] Valid Palindrome | Easy | Python | O(n) 
 [#136] Single Number | Easy | JavaScript and Rust | O(n)
 [#169] Majority Element | Easy | Java | O(n)
