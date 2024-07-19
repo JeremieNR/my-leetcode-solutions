@@ -17,7 +17,7 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#136] Single Number | Easy | JavaScript and Rust | O(n)
 [#169] Majority Element | Easy | Java and C# | O(n)
 [#191] Number of 1 Bits | Easy | JavaScript and Python | O(log(n)) 
-[#217] Contains Duplicate | Easy | JavaScript and Java | O(n)
+[#217] Contains Duplicate | Easy | JavaScript, Java and C# | O(n)
 [#231] Power of Two | Easy | JavaScript, Java, Rust, and C# | O(1)
 [#268] Missing Number | Easy | JavaScript, Java and Python | O(n)
 [#349] Intersection of Two Arrays | Easy | JavaScript | O(n + m)
