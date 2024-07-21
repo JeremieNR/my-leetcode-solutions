@@ -16,7 +16,7 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#125] Valid Palindrome | Easy | Python | O(n) 
 [#136] Single Number | Easy | JavaScript, Rust and C# | O(n)
 [#169] Majority Element | Easy | Java and C# | O(n)
-[#191] Number of 1 Bits | Easy | JavaScript and Python | O(log(n)) 
+[#191] Number of 1 Bits | Easy | JavaScript, Python and C# | O(log(n)) 
 [#217] Contains Duplicate | Easy | JavaScript, Java and C# | O(n)
 [#231] Power of Two | Easy | JavaScript, Java, Rust, and C# | O(1)
 [#268] Missing Number | Easy | JavaScript, Java and Python | O(n)
