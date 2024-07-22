@@ -13,7 +13,7 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#58] Length of Last Word | Easy | Python | O(n) 
 [#66] Plus One | Easy | Python | O(n) 
 [#69] Sqrt(x) | Easy | JavaScript, Java, Rust, Python and C# | O(log(n)) 
-[#125] Valid Palindrome | Easy | Python | O(n) 
+[#125] Valid Palindrome | Easy | JavaScript and Python | O(n) 
 [#136] Single Number | Easy | JavaScript, Rust and C# | O(n)
 [#169] Majority Element | Easy | Java and C# | O(n)
 [#191] Number of 1 Bits | Easy | JavaScript, Python and C# | O(log(n)) 
