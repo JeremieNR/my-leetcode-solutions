@@ -22,6 +22,6 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#217] Contains Duplicate | Easy | JavaScript, Java and C# | O(n)
 [#231] Power of Two | Easy | JavaScript, Java, Rust, and C# | O(1)
 [#268] Missing Number | Easy | JavaScript, Java, Rust, Python and C# | O(n)
-[#278] First Bad Version | Easy | Python | O(log(n)) 
+[#278] First Bad Version | Easy | JavaScript and Python | O(log(n)) 
 [#349] Intersection of Two Arrays | Easy | JavaScript | O(n + m)
 [#2239] Find Closest Number to Zero | Easy | JavaScript, Rust, Python and C# | O(n)
