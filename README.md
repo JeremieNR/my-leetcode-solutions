@@ -22,7 +22,7 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#217] Contains Duplicate | Easy | JavaScript, Java and C# | O(n)
 [#231] Power of Two | Easy | JavaScript, Java, Rust, and C# | O(1)
 [#242] Valid Anagram | Easy | Python | O(n)
-[#260] Single Number III | Medium | Python | O(n)
+[#260] Single Number III | Medium | JavaScript and Python | O(n)
 [#268] Missing Number | Easy | JavaScript, Java, Rust, Python and C# | O(n)
 [#278] First Bad Version | Easy | JavaScript and Python | O(log(n)) 
 [#349] Intersection of Two Arrays | Easy | JavaScript | O(n + m)
