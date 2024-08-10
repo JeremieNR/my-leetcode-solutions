@@ -18,7 +18,7 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#136] Single Number | Easy | JavaScript, Java, Rust and C# | O(n)
 [#169] Majority Element | Easy | JavaScript, Java, Rust and C# | O(n)
 [#191] Number of 1 Bits | Easy | JavaScript, Java, Python and C# | O(log(n)) 
-[#205] Isomorphic Strings | Easy | JavaScript, Python and C# | O(n) 
+[#205] Isomorphic Strings | Easy | JavaScript, Java, Python and C# | O(n) 
 [#217] Contains Duplicate | Easy | JavaScript, Java, Rust, and C# | O(n)
 [#231] Power of Two | Easy | JavaScript, Java, Rust, and C# | O(1)
 [#242] Valid Anagram | Easy | Python | O(n)
