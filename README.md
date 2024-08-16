@@ -15,7 +15,7 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#66] Plus One | Easy | Python | O(n) 
 [#69] Sqrt(x) | Easy | JavaScript, Java, Rust, Python and C# | O(log(n)) 
 [#125] Valid Palindrome | Easy | JavaScript and Python | O(n) 
-[#136] Single Number | Easy | JavaScript, Java, Rust and C# | O(n)
+[#136] Single Number | Easy | JavaScript, Java, Rust, Python and C# | O(n)
 [#169] Majority Element | Easy | JavaScript, Java, Rust and C# | O(n)
 [#191] Number of 1 Bits | Easy | JavaScript, Java, Python and C# | O(log(n)) 
 [#205] Isomorphic Strings | Easy | JavaScript, Java, Python and C# | O(n) 
