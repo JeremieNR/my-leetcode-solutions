@@ -25,5 +25,6 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#260] Single Number III | Medium | JavaScript, Java, Rust, Python and C# | O(n)
 [#268] Missing Number | Easy | JavaScript, Java, Rust, Python and C# | O(n)
 [#278] First Bad Version | Easy | JavaScript and Python | O(log(n)) 
+[#326] Power of Three | Easy | Rust | O(1)
 [#349] Intersection of Two Arrays | Easy | JavaScript | O(n + m)
 [#2239] Find Closest Number to Zero | Easy | JavaScript, Rust, Python and C# | O(n)
