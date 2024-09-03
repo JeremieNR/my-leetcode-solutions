@@ -28,4 +28,4 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#326] Power of Three | Easy | JavaScript, Java, Rust, Python and C# | O(1)
 [#342] Power of Four | Easy | JavaScript, Java, Rust, Python and C# | O(1)
 [#349] Intersection of Two Arrays | Easy | JavaScript | O(n + m)
-[#2239] Find Closest Number to Zero | Easy | JavaScript, Rust, Python and C# | O(n)
+[#2239] Find Closest Number to Zero | Easy | JavaScript, Java, Rust, Python and C# | O(n)
