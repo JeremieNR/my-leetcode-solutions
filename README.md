@@ -21,7 +21,7 @@ Problems | Difficulty Level | Languages | Overall Time Complexity
 [#205] Isomorphic Strings | Easy | JavaScript, Java, Python and C# | O(n) 
 [#217] Contains Duplicate | Easy | JavaScript, Java, Rust, and C# | O(n)
 [#231] Power of Two | Easy | JavaScript, Java, Rust, and C# | O(1)
-[#242] Valid Anagram | Easy | Python | O(n)
+[#242] Valid Anagram | Easy | Java and Python | O(n)
 [#260] Single Number III | Medium | JavaScript, Java, Rust, Python and C# | O(n)
 [#268] Missing Number | Easy | JavaScript, Java, Rust, Python and C# | O(n)
 [#278] First Bad Version | Easy | JavaScript and Python | O(log(n)) 
